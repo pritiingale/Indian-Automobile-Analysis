@@ -1,43 +1,81 @@
 # Indian-Automobile-Analysis
 Exploratory Data Analysis of the Indian Automobile Market using Python with visualizations and insights on fuel type, brand, and ownership patterns.
-Project Overview
-This project analyzes the Indian automobile market using data analysis and visualization techniques. The main objective is to explore different features of automobiles such as fuel type, owner type, brand distribution, and other important factors. Through Exploratory Data Analysis (EDA), the project helps identify patterns and trends within the automobile industry.
+## **Indian Automobile Market Analysis**
 
-Objectives
-The main objectives of this project are to explore the structure of the automobile dataset, analyze important variables affecting the automobile market, visualize relationships between different features, and generate meaningful insights using data visualization.
+### **Project Overview**
+This project focuses on analyzing the **Indian Automobile Market** using data analysis and visualization techniques.
 
-Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Plotly
-Jupyter Notebook
+- The goal is to explore different automobile features such as **fuel type, owner type, brand distribution, and other market factors**.  
+- Using **Exploratory Data Analysis (EDA)**, the project identifies patterns and trends in the automobile industry.  
+- The analysis helps understand how different variables influence the automobile market.
 
-Types of Analysis
+---
 
-Univariate Analysis
-Univariate analysis focuses on analyzing one variable at a time. It helps understand the distribution and characteristics of individual variables such as fuel type, brand, owner type, and transmission.
+### **Objectives**
 
-Bivariate Analysis
-Bivariate analysis examines the relationship between two variables. This helps identify patterns and trends such as the relationship between fuel type and price or brand distribution across categories.
+- Explore the structure and distribution of the automobile dataset.  
+- Analyze key factors affecting the Indian automobile market.  
+- Visualize relationships between different automobile features.  
+- Extract meaningful insights using data visualization techniques.
 
-Multivariate Analysis
-Multivariate analysis studies the interaction between multiple variables at the same time. It helps reveal deeper insights about how different automobile features combine to influence the automobile market.
+---
 
-Key Visualizations
-Bar Charts
-Pie Charts
-Scatter Plots
-Box Plots
-Histograms
-Sunburst Charts
+### **Technologies Used**
 
-Insights
-The analysis helps identify trends in the Indian automobile market such as the popularity of certain fuel types, brand distribution patterns, and ownership trends.
+- **Python**
+- **Pandas**
+- **NumPy**
+- **Matplotlib**
+- **Plotly**
+- **Jupyter Notebook**
 
-Conclusion
-This project demonstrates how exploratory data analysis and visualization techniques can help better understand the structure and trends of the Indian automobile market.
+---
 
-Author
-Priti Ingale
+### **Types of Analysis**
+
+#### **Univariate Analysis**
+
+- Focuses on analyzing **one variable at a time**.  
+- Helps understand the **distribution and characteristics** of variables.  
+- Examples include analysis of **fuel type, brand distribution, owner type, and transmission type**.
+
+#### **Bivariate Analysis**
+
+- Examines the **relationship between two variables**.  
+- Helps identify patterns such as **fuel type vs vehicle price** or **brand distribution across categories**.
+
+#### **Multivariate Analysis**
+
+- Studies the **interaction between three or more variables**.  
+- Helps discover deeper insights about how different automobile features influence the market.
+
+---
+
+### **Key Visualizations**
+
+- Bar Charts  
+- Pie Charts  
+- Scatter Plots  
+- Box Plots  
+- Histograms  
+- Sunburst Charts  
+
+---
+
+### **Insights**
+
+- Identifies trends in the **Indian automobile market**.  
+- Shows the **popularity of different fuel types**.  
+- Highlights **brand distribution and ownership patterns**.
+
+---
+
+### **Conclusion**
+
+This project demonstrates how **exploratory data analysis and visualization techniques** can help understand the structure and trends of the **Indian automobile market**.
+
+---
+
+### **Author**
+
+**Priti Ingale**
